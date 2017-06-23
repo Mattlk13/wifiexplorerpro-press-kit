@@ -4,7 +4,7 @@ Here you will find a description of the new WiFi Explorer Pro, the download link
 
 ## What is WiFi Explorer Pro?
 
-WiFi Explorer Pro is a tool that allows you to scan, monitor and troubleshoot wireless networks. It offers a collection of views and filter controls that let you visualize and analyze the Wi-Fi environment in a quick and effective manner. 
+WiFi Explorer Pro is a tool that allows you to scan, monitor and troubleshoot wireless networks. It offers a collection of views and filter controls that let you visualize and analyze the Wi-Fi environment in a quick and effective manner.
 
 You can use WiFi Explorer Pro to help design and validate wireless networks installations, as well as to identify channel conflicts, overlapping, poor signal quality and other issues that may be affecting the connectivity or performance of your home, office or enterprise wireless network. 
 
@@ -24,4 +24,6 @@ WiFi Explorer Pro takes the code base of WiFi Explorer and adds a set of feature
 
 WiFi Explorer Pro has been released on June 22, 2017 and is available to download from www.adriangranados.com/apps/wifi-explorer. The app's price is $79.99 for a single license with up to 3 activations. 
 
-WiFi Explorer Pro requires OS X 10.10 or later and a built-in Wi-Fi adapter.
+### Notes
+1. WiFi Explorer Pro requires OS X 10.10 or later and a built-in Wi-Fi adapter.
+2. An upgrade path from WiFi Explorer (MAS or non-MAS version) to WiFi Explorer Pro is not available at this moment.
