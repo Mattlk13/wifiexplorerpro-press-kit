@@ -14,7 +14,7 @@ WiFi Explorer Pro takes the code base of WiFi Explorer and adds a set of feature
 
 - Passive and directed scan modes
 - Spectrum analysis integration
-- Custom filters
+- Enhanced filtering
 - Support for remote sensors
 - Support for networks with hidden SSIDs
 - Additional organization options for scan results
