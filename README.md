@@ -22,9 +22,9 @@ WiFi Explorer Pro takes the code base of WiFi Explorer and adds a set of feature
 
 ## Pricing and availability
 
-WiFi Explorer Pro has been released on June 22, 2017 and is available to download from www.adriangranados.com/apps/wifi-explorer.
+WiFi Explorer Pro has been released on June 22, 2017 and is available to download from www.adriangranados.com.
 
-The app's price is $79.99 for a single license with up to 3 activations.
+The app's price is $79.99 for a single license with up to 3 activations. A free 3-day trial is available.
 
 ### Notes
 1. WiFi Explorer Pro requires OS X 10.10 or later and a built-in Wi-Fi adapter. External Wi-Fi adapters are not supported.
